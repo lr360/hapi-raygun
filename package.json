@@ -1,6 +1,6 @@
 {
   "name": "hapi-raygun",
-  "version": "1.1.4",
+  "version": "2.0.0",
   "description": "Raygun error reporting as a Hapi.js plugin",
   "main": "index.js",
   "repository": {
@@ -20,8 +20,8 @@
   "author": "Craig Beck <cbeck@zipwhip.com>",
   "license": "ISC",
   "dependencies": {
-    "hoek": "^3.0.1",
-    "joi": "^7.0.0",
-    "raygun": "^0.8.0"
+    "hoek": "^6.0.2",
+    "joi": "^14.0.4",
+    "raygun": "^0.8.5"
   }
 }
