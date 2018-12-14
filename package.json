@@ -22,6 +22,6 @@
   "dependencies": {
     "hoek": "^6.0.2",
     "joi": "^14.0.4",
-    "raygun": "^0.8.5"
+    "raygun": "^0.10.0"
   }
 }
